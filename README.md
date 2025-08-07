@@ -1,7 +1,12 @@
 # Hi! I'm Morteza 👋
 
-I'm a passionate web developer specializing in front-end development.  
-I love creating clean, responsive, and user-friendly websites.
+## 👨‍💻 About Me
+
+I'm a **front-end developer** with a deep passion for learning and building. Since the beginning of my journey, I've been consistently working on various projects using **HTML**, **CSS**, and **JavaScript** to strengthen my skills through hands-on experience.
+
+Currently, my main focus is on mastering the **React** library and the **Tailwind CSS** framework. I dedicate time daily to improving my knowledge and staying up to date with front-end development best practices.
+
+For over **two years**, I’ve been learning front-end development continuously through courses, tutorials, and practical projects. These self-initiated projects have played a key role in helping me understand complex concepts and grow technically.
 
 ---
 
