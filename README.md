@@ -52,7 +52,7 @@ A quiz application created with React to practice the `useReducer` hook and mana
 
 ---
 
-### 🗺️ WorldWise *(In Development)*  
+### 🗺️ WorldWise
 An interactive map-based travel app to mark visited countries — built with React and CSS Modules.
 
 ---
