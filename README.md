@@ -32,18 +32,8 @@ A static hospital website built using HTML, CSS, and JavaScript.
 
 ---
 
-### 🍕 Pizza Menu  
-A pizza menu app built with React, HTML, and CSS — focused on learning component structure and conditional rendering.
-
----
-
 ### 🌍 Travel List  
 A simple React app for managing a travel checklist — built to practice element control and the `useState` hook.
-
----
-
-### ✅ To-Do App  
-A task management app using React, HTML, and CSS — focused on handling user input and `useState` for dynamic lists.
 
 ---
 
